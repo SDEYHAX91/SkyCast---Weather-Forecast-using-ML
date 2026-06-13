@@ -13,7 +13,7 @@ import pytz
 import os
 
 #OpenWeather API KEY
-API_KEY = '7d95bae8446e44197407f72423e6b25e'
+API_KEY = 'your_API_key'
 BASE_URL = 'https://api.openweathermap.org/data/2.5/'
 #Base URL for making API Requests
 
